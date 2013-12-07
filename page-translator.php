@@ -9,7 +9,7 @@ Author URI: http://www.letem.cz/
 */
 
 
-$page_translator_new = 'page'; // here type the new value instead of 'page', for example 'seite', so your URLs will be like 'http://www.url.com/seite/5/'
+$page_translator_new = 'seite'; // here is the new value instead of 'page', for example 'http://www.url.com/seite/5/'
 
 
 add_action ('init', 'page_translator');
