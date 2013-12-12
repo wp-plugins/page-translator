@@ -3,7 +3,7 @@ Contributors: Jiří Poláček
 Donate link: http://www.letem.cz/page-translator/
 Tags: paging, pagination, translate, url, seo, permalinks, change
 Requires at least: 3.0.0
-Tested up to: 3.7.1
+Tested up to: 3.8.0
 Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
